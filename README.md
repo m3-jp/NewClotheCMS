@@ -65,6 +65,9 @@ htmlの最後の方に書きを追記します
 * 現在は`__nc-form-text`と`__nc-form-textarea`のみ有効です  
 * `<?php echo __nc_getData('重複しない名前'); ?>`には、「重複しない名前」の部分に半角英数字のみで重複しない名前を入力してください
 
+## デモ
+<http://m3-jp.com/nc_demo/>
+
 ## 必須環境
 PHP5以上
 

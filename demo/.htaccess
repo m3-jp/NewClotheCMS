@@ -1,0 +1,6 @@
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+</Files>
+Options +Includes
+AddHandler server-parsed html
+AddHandler application/x-httpd-php .php .html
