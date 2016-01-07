@@ -1,0 +1,140 @@
+/*
+ * m3 Style
+ * Ver 0.1
+ * Copyright 2016 http://style.m3-jp.asia/
+ */
+@charset "UTF-8";
+
+.ul{
+  font-size: 0;
+}
+.ul>li{
+  display: inline-block;
+}
+.hide{
+  display: none;
+}
+.block{
+  display: block;
+}
+.inline-block{
+  display: inline-block;
+}
+.xx-large{
+  font-size: xx-large;
+}
+.x-large{
+  font-size: x-large;
+}
+.large{
+  font-size: large;
+}
+.medium{
+  font-size: medium;
+}
+.small{
+  font-size: small;
+}
+.x-small{
+  font-size: x-small;
+}
+.x-small{
+  font-size: xx-small;
+}
+.bold{
+  font-weight: bold;
+}
+.normal{
+  font-weight: normal;
+}
+.dtb{
+  display: table;
+  padding: 0;
+  margin: 0;
+}
+.dtbc{
+  display: table-cell;
+  vertical-align: middle;
+}
+.dtbr{
+  display: table-row;
+}
+.float{
+  *zoom:100%;
+}
+.float:after{
+ content:".";
+ display:block;
+ height:0;
+ clear:both;
+ visibility:hidden;
+ font-size:0;
+}
+.float_left{
+  float: left;
+}
+.float_right{
+  float: right;
+}
+.left{
+  text-align: left;
+}
+.right{
+  text-align: right;
+}
+.center{
+  text-align: center;
+}
+.text_hide{
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.clear{
+  clear: both;
+}
+.w25{
+  width: 25%;
+}
+.w50{
+  width: 50%;
+}
+.w75{
+  width: 50%;
+}
+.w100{
+  width: 100%;
+}
+.pd5{
+  padding: 5px;
+}
+.pd10{
+  padding: 10px;
+}
+.pd20{
+  padding: 20px;
+}
+.mt5{
+  margin-top: 5px;
+}
+.mb5{
+  margin-bottom: 5px;
+}
+.mt10{
+  margin-top: 10px;
+}
+.mb10{
+  margin-bottom: 10px;
+}
+.mt20{
+  margin-top: 20px;
+}
+.mb20{
+  margin-bottom: 20px;
+}
+.btn{
+  background: #eee;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
