@@ -3,7 +3,7 @@
 /*
  * New Clothe CMS
  * Ver 0.1
- * Copyright 2016 http://nc-cms.m3-jp.asia/
+ * Copyright http://m3-jp.com/
  */
 
 session_start();
